@@ -1,0 +1,2 @@
+nixie.c:15:6:nixie_display	24	static
+nixie.c:40:6:nixie_cpp	40	static
